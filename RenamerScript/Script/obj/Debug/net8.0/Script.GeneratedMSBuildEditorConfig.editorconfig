@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Script
-build_property.ProjectDir = F:\Github Projects\small-utility-projects\RenamerScript\Script\
+build_property.ProjectDir = D:\Proj\small utility projects\RenamerScript\Script\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

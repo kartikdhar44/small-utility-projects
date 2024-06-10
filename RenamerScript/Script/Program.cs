@@ -5,8 +5,15 @@ class Program
 {
     static void Main()
     {
-        string folderPath = System.ReadLine("Input file path: ");
-        string newFileName= System.ReadLine("Input new file name: "); 
+        Console.WriteLine("Input file path: ");
+        string folderPath = Console.ReadLine()??"";
+        Console.WriteLine("Input new file name: ");
+        string newFileName= Console.ReadLine()??"";
+        if(!Directory.Exists(folderPath) || !File.Exists(folderPath) || string.IsNullOrEmpty(folderPath)||string.IsNullOrEmpty(newFileName)){
+            Console.WriteLine(new Exception("Ye kya kr rho, ye murkhta hamare sath mat kro"));
+            Console.ReadLine();
+            return;
+        } 
         int i=0;
         string[] files = Directory.GetFiles(folderPath);
         foreach (string filePath in files)
@@ -14,7 +21,7 @@ class Program
             try{
             FileInfo fileInfo = new FileInfo(filePath);
             string fileName = fileInfo.Name;
-            string newFileName += i.ToString()+".png";
+            newFileName += i.ToString()+".png";
             string destinationPath = Path.Combine(folderPath, newFileName);
             if(File.Exists(destinationPath)){
                  i++;

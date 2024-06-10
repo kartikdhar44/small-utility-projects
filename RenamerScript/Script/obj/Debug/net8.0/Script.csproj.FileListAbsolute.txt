@@ -12,3 +12,18 @@ F:\HomeTogether_v0.22\HomeTogether_v0.22\HomeTogether\Script\obj\Debug\net8.0\re
 F:\HomeTogether_v0.22\HomeTogether_v0.22\HomeTogether\Script\obj\Debug\net8.0\Script.pdb
 F:\HomeTogether_v0.22\HomeTogether_v0.22\HomeTogether\Script\obj\Debug\net8.0\Script.genruntimeconfig.cache
 F:\HomeTogether_v0.22\HomeTogether_v0.22\HomeTogether\Script\obj\Debug\net8.0\ref\Script.dll
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.AssemblyInfoInputs.cache
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.AssemblyInfo.cs
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.csproj.CoreCompileInputs.cache
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.sourcelink.json
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.dll
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\refint\Script.dll
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.pdb
+D:\Proj\small utility projects\RenamerScript\Script\bin\Debug\net8.0\Script.exe
+D:\Proj\small utility projects\RenamerScript\Script\bin\Debug\net8.0\Script.deps.json
+D:\Proj\small utility projects\RenamerScript\Script\bin\Debug\net8.0\Script.runtimeconfig.json
+D:\Proj\small utility projects\RenamerScript\Script\bin\Debug\net8.0\Script.dll
+D:\Proj\small utility projects\RenamerScript\Script\bin\Debug\net8.0\Script.pdb
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\Script.genruntimeconfig.cache
+D:\Proj\small utility projects\RenamerScript\Script\obj\Debug\net8.0\ref\Script.dll

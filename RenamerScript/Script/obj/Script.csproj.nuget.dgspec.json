@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Github Projects\\small-utility-projects\\RenamerScript\\Script\\Script.csproj": {}
+    "D:\\Proj\\small utility projects\\RenamerScript\\Script\\Script.csproj": {}
   },
   "projects": {
-    "F:\\Github Projects\\small-utility-projects\\RenamerScript\\Script\\Script.csproj": {
+    "D:\\Proj\\small utility projects\\RenamerScript\\Script\\Script.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github Projects\\small-utility-projects\\RenamerScript\\Script\\Script.csproj",
+        "projectUniqueName": "D:\\Proj\\small utility projects\\RenamerScript\\Script\\Script.csproj",
         "projectName": "Script",
-        "projectPath": "F:\\Github Projects\\small-utility-projects\\RenamerScript\\Script\\Script.csproj",
-        "packagesPath": "C:\\Users\\karti\\.nuget\\packages\\",
-        "outputPath": "F:\\Github Projects\\small-utility-projects\\RenamerScript\\Script\\obj\\",
+        "projectPath": "D:\\Proj\\small utility projects\\RenamerScript\\Script\\Script.csproj",
+        "packagesPath": "C:\\Users\\KarthikD\\.nuget\\packages\\",
+        "outputPath": "D:\\Proj\\small utility projects\\RenamerScript\\Script\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\karti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KarthikD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
