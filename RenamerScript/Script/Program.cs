@@ -5,17 +5,16 @@ class Program
 {
     static void Main()
     {
-        string folderPath = "F:\\HomeTogether_v0.22\\HomeTogether_v0.22\\HomeTogether\\Character";
-       // string fileNameToRemove = "UserCreated";
+        string folderPath = System.ReadLine("Input file path: ");
+        string newFileName= System.ReadLine("Input new file name: "); 
         int i=0;
-
         string[] files = Directory.GetFiles(folderPath);
         foreach (string filePath in files)
         {
             try{
             FileInfo fileInfo = new FileInfo(filePath);
             string fileName = fileInfo.Name;
-            string newFileName = i.ToString()+".png";
+            string newFileName += i.ToString()+".png";
             string destinationPath = Path.Combine(folderPath, newFileName);
             if(File.Exists(destinationPath)){
                  i++;
